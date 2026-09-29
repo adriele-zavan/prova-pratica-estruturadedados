@@ -1,0 +1,12 @@
+11
+Ex Machina;2014;9
+Curtindo a Vida Adoidado;1986;8
+As Branquelas;2004;2
+The Hitchhiker's Guide to the Galaxy;2005;7
+De Volta para o Futuro;1985;10
+Prenda-Me Se for Capaz;2002;5
+Velozes & Furiosos;2001;4
+Harry Potter e a Pedra Filosofal;2001;9
+Perdido em Marte;2015;10
+Honey, I Shrunk the Kids;1989;6
+Terms and Conditions May Apply;2013;7
